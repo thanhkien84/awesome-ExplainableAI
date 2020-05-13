@@ -22,7 +22,7 @@ Presenters: K. Gade, S. Cem Geyik, K. Kenthapadi, V. Mithal, A. Taly\
 #### ICCV 2019, CVPR 2018 - Tutorial on Interpretable Machine Learning for Computer Vision
 Presenters: B. Zhou, A. Vedaldi, A. Binder, A. L. Yuille\
 ICCV: [Site](https://interpretablevision.github.io) - [Slides1](https://interpretablevision.github.io/slide/iccv19_vedaldi_slide.pdf) - [ Slides2](https://interpretablevision.github.io/slide/iccv19_zhou_slide.pdf) - [ Slides3](https://interpretablevision.github.io/slide/iccv19_yuille_slide.pdf) - [ Slides4](https://interpretablevision.github.io/slide/iccv19_binder_slide.pdf)\
-CVPR [Site](https://interpretablevision.github.io/index_cvpr2018.html) - [ Slides1](http://deeplearning.csail.mit.edu/slide_cvpr2018/been_cvpr18tutorial.pdf) [Youtube1](https://www.youtube.com/watch?v=MgawSHnYQGw) - [ Slide2](http://deeplearning.csail.mit.edu/slide_cvpr2018/laurens_cvpr18tutorial.pdf) [Youtube2](https://youtu.be/MgawSHnYQGw?t=2589) - [ Slides3](http://deeplearning.csail.mit.edu/slide_cvpr2018/bolei_cvpr18tutorial.pdf) [Youtube3](https://www.youtube.com/watch?v=1aSS5GEH58U) - [ Slides4](http://deeplearning.csail.mit.edu/slide_cvpr2018/vedaldi_cvpr18tutorial.pdf) [Youtube4](https://youtu.be/1aSS5GEH58U?t=2860)
+CVPR: [Site](https://interpretablevision.github.io/index_cvpr2018.html) - [ Slides1](http://deeplearning.csail.mit.edu/slide_cvpr2018/been_cvpr18tutorial.pdf) [Youtube1](https://www.youtube.com/watch?v=MgawSHnYQGw) - [ Slide2](http://deeplearning.csail.mit.edu/slide_cvpr2018/laurens_cvpr18tutorial.pdf) [Youtube2](https://youtu.be/MgawSHnYQGw?t=2589) - [ Slides3](http://deeplearning.csail.mit.edu/slide_cvpr2018/bolei_cvpr18tutorial.pdf) [Youtube3](https://www.youtube.com/watch?v=1aSS5GEH58U) - [ Slides4](http://deeplearning.csail.mit.edu/slide_cvpr2018/vedaldi_cvpr18tutorial.pdf) [Youtube4](https://youtu.be/1aSS5GEH58U?t=2860)
 
 #### CVPR 2019 Workshop on Explainable AI
 Presenters: S.C. Zhu, K.R. Muller, K. Saenko, D. Parikh & D. Batra, B. Kim\
@@ -35,7 +35,17 @@ Presenters: S.C. Zhu, K.R. Muller, K. Saenko, D. Parikh & D. Batra, B. Kim\
 
 
 ### 3. Survey papers
-#### [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](https://www.sciencedirect.com/science/article/pii/S1566253519308103), Information Fusion, Dec 2019
+
+#### Introductory
+##### [McKinsey - Leading your organization to responsible AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/leading-your-organization-to-responsible-ai)
+
+##### [The Royal Society - Explainable AI: the basics](https://royalsociety.org/-/media/policy/projects/explainable-ai/AI-and-interpretability-policy-briefing.pdf)
+
+#### Technical
+##### [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](https://www.sciencedirect.com/science/article/pii/S1566253519308103), Information Fusion, Dec 2019
+
+##### [The Emerging Landscape of Explainable AI Planning and Decision Making](https://arxiv.org/abs/2002.11697)
+
 
 ### 4. Books
 #### Interpretable Machine Learning [Link](https://christophm.github.io/interpretable-ml-book/)
@@ -52,6 +62,9 @@ Presenters: S.C. Zhu, K.R. Muller, K. Saenko, D. Parikh & D. Batra, B. Kim\
 
 ### Model Induction
 
+
+### 7. Available services
+#### Google Explainable AI services [Link](https://towardsdatascience.com/googles-new-explainable-ai-xai-service-83a7bc823773)
 
 
 
