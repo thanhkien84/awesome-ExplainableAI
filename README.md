@@ -1,5 +1,7 @@
 # Awesome-ExplainableAI
 
+
+
 ## Tutorials and Workshops
 
 #### AAAI 2020 - Explainable AI: Foundations, Industrial Applications, Practical Challenges, and Lessons Learned
@@ -26,15 +28,15 @@ Presenters: Song-Chun Zhu, Klaus-Robert Muller, Kate Saenko, Devi Parikh & Dr. D
 
 ## Projects
 #### DARPA Explainable Artificial Intelligence (XAI) 2017-2021 
-[Site](https://www.darpa.mil/program/explainable-artificial-intelligence) - [Project Description](https://www.darpa.mil/attachments/DARPA-BAA-16-53.pdf) - [Slides](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=18&cad=rja&uact=8&ved=2ahUKEwiim4rJrLDpAhUwyzgGHTZTCGMQFjARegQIBxAB&url=https%3A%2F%2Fasd.gsfc.nasa.gov%2Fconferences%2Fai%2Fprogram%2F003-XAIforNASA.pdf&usg=AOvVaw3LnUXofEKnGVlMNJO1TK5n)
+[Site](https://www.darpa.mil/program/explainable-artificial-intelligence) - [Project Description](https://www.darpa.mil/attachments/DARPA-BAA-16-53.pdf) - [Slides](https://asd.gsfc.nasa.gov/conferences/ai/program/003-XAIforNASA.pdf)
 
 
-## Major directions
+## Key directions
 ### Deep explanation 
 
 ### Interpretable Models
 
-### 
+### Model Induction
 
 
 
