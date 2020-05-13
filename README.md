@@ -1,13 +1,15 @@
 # Awesome-ExplainableAI
-Other keywords: Interpretable Machine Learning\
 
+This document collects the key resources in Explainable AI, including tutorials, workshops, books, survey papers, projects, and major research directions. There is no way it is complete, I will keep updating it. You are welcome to suggest any valueable resources. 
+
+### Other keywords: Interpretable Machine Learning
 Explainable vs. Interpretable \
 In most cases, they are used interchangeable. In a number of situations, explainability means explaining for what have already happened. 
 
 AI vs. Machine Learning\
 In most cases, they are used interchangeable. However, if precisely defined, ML is a subfield of AI. There are other subfields in AI such as Computer Vision and Statistics.
 
-### Tutorials and Workshops
+### 1. Tutorials and Workshops
 
 #### AAAI 2020 - Explainable AI: Foundations, Industrial Applications, Practical Challenges, and Lessons Learned
 Presenters: Freddy Lecue, Krishna Gade, Sahin Cem Geyik, Krishnaram Kenthapadi, Varun Mithal, Ankur Taly, Riccardo Guidotti, Pasquale Minervini\
@@ -35,15 +37,20 @@ Presenters: Song-Chun Zhu, Klaus-Robert Muller, Kate Saenko, Devi Parikh & Dr. D
 [Site](https://human-centered.ai/seminar-explainable-ai-2019/) - [Github](https://github.com/human-centered-ai-lab/cla-Seminar-explainable-AI-2019)
 
 
-### Survey papers
+### 2. Survey papers
 #### [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](https://www.sciencedirect.com/science/article/pii/S1566253519308103), Information Fusion, Dec 2019
 
-### Projects
+### 3. Books
+#### Interpretable Machine Learning
+[Link](https://christophm.github.io/interpretable-ml-book/)
+
+
+### 4. Projects
 #### DARPA Explainable Artificial Intelligence (XAI) 2017-2021 
 [Site](https://www.darpa.mil/program/explainable-artificial-intelligence) - [Project Description](https://www.darpa.mil/attachments/DARPA-BAA-16-53.pdf) - [Slides](https://asd.gsfc.nasa.gov/conferences/ai/program/003-XAIforNASA.pdf)
 
 
-### Key directions
+### 5. Key directions
 ### Deep explanation 
 
 ### Interpretable Models
