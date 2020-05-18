@@ -1,4 +1,4 @@
-# Explainable AI
+# XAI - Explainable AI
 
 This document collects the key resources in Explainable AI, including tutorials, workshops, books, course & lectures, survey papers, projects, and major research directions. There is no way it is complete, it will be continuously updated with new and relevant resources. You are welcome to suggest any valueable resources. 
 
