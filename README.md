@@ -49,6 +49,8 @@ Two categories:
 
 ![Post-hoc explainability approaches [3]](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/PosthocExplainability.png)
 
+[[https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/PosthocExplainability.png|width=100|alt=abc]]
+
 ### XAI Taxonomy
 
 ![Taxonomy of XAI [3]](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/XAItaxonomy.png)
