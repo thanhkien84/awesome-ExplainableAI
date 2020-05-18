@@ -21,7 +21,7 @@ Explainable AI survey paper [3]:
 
 ### WHY
 - Explainability is one of the main barriers AI is facing nowadays in regards to its practical implementation.
-- Even though AI AI has helped research across the world with the task of inferring relations that were far beyond the human cognitive reach. However, science and society are far from being concerned just by performance.
+- Even though AI has helped research across the world with the task of inferring relations that were far beyond the human cognitive reach. However, science and society are far from being concerned just by performance.
 - The search for understanding is what opens the door for further model improvement and its practical utility.
  
 ### WHAT FOR?
