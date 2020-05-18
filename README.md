@@ -69,15 +69,15 @@ Two categories:
     - Visual explanation
 
 - Model-specific in Shallow ML Models
- - Tree Ensembles, Random Forests and Multiple Classifier Systems
- - SVM
+    - Tree Ensembles, Random Forests and Multiple Classifier Systems
+    - SVM
 
 - Model-specific in Deep Learning
- - Multi-layer Neural Networks
- - Convolutional Neural Networks (CNNs)
- - Recurrent Neural Networks (RNNs)
- - Hybrid Transparent and Black-box Methods 
- - Alternative Taxonomy of Post-hoc Explainability Techniques for Deep Learning
+    - Multi-layer Neural Networks
+    - Convolutional Neural Networks (CNNs)
+    - Recurrent Neural Networks (RNNs)
+    - Hybrid Transparent and Black-box Methods 
+    - Alternative Taxonomy of Post-hoc Explainability Techniques for Deep Learning
 
 ----------------------------------------------------------------------------------------------------------------
 
