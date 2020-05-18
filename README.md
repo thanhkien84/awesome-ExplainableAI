@@ -1,13 +1,22 @@
-# Awesome-ExplainableAI
+# Explainable AI
 
 This document collects the key resources in Explainable AI, including tutorials, workshops, books, course & lectures, survey papers, projects, and major research directions. There is no way it is complete, I will keep updating it. You are welcome to suggest any valueable resources. 
 
 ### Other keywords: Interpretable Machine Learning
 Explainable vs. Interpretable \
-In most cases, they are used interchangeable. In a number of situations, explainability means explaining for what have already happened. 
+In most cases, they are used interchangeable. In a number of situations, explainability means explaining for what have already happened. [3] defined: Interpretability refers to a passive characteristic of a model referring to the level at which a given model makes sense to a human observe vs. Explainability is viewed as an active characteristic of a model, denoting any action or procedure take by a model with the intent of clarifying or detailing its internal functions. 
 
 AI vs. Machine Learning\
 In most cases, they are used interchangeable. However, if precisely defined, ML is a subfield of AI. There are other subfields in AI such as Computer Vision and Statistics.
+
+
+### Definition of Explainable AI
+DARPA XAI project by D. Gunning [5]:
+“XAI will create a suite of machine learning techniques that enables human users to understand, appropriately trust, and effectively manage the emerging generation of artificially intelligent partners”
+
+Explainable AI survey paper [3]:
+"Given a certain audience, explainability refers to the details and reasons a model gives to make its functioning clear or easy to understand."
+
 
 ### 1. Tutorials and Workshops
 ##### AAAI 2020 - Explainable AI: Foundations, Industrial Applications, Practical Challenges, and Lessons Learned
@@ -37,14 +46,14 @@ Presenters: S.C. Zhu, K.R. Muller, K. Saenko, D. Parikh & D. Batra, B. Kim\
 ### 3. Survey papers
 
 #### Introductory
-##### [McKinsey - Leading your organization to responsible AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/leading-your-organization-to-responsible-ai)
+##### [1] [McKinsey - Leading your organization to responsible AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/leading-your-organization-to-responsible-ai)
 
-##### [The Royal Society - Explainable AI: the basics](https://royalsociety.org/-/media/policy/projects/explainable-ai/AI-and-interpretability-policy-briefing.pdf)
+##### [2] [The Royal Society - Explainable AI: the basics](https://royalsociety.org/-/media/policy/projects/explainable-ai/AI-and-interpretability-policy-briefing.pdf)
 
 #### Technical
-##### [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](https://www.sciencedirect.com/science/article/pii/S1566253519308103), Information Fusion, Dec 2019
+##### [3] [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](https://www.sciencedirect.com/science/article/pii/S1566253519308103), Information Fusion, Dec 2019
 
-##### [The Emerging Landscape of Explainable AI Planning and Decision Making](https://arxiv.org/abs/2002.11697)
+##### [4] [The Emerging Landscape of Explainable AI Planning and Decision Making](https://arxiv.org/abs/2002.11697)
 
 
 ### 4. Books
@@ -52,7 +61,7 @@ Presenters: S.C. Zhu, K.R. Muller, K. Saenko, D. Parikh & D. Batra, B. Kim\
 
 
 ### 5. Projects
-##### DARPA Explainable Artificial Intelligence (XAI) 2017-2021 [Site](https://www.darpa.mil/program/explainable-artificial-intelligence) - [Project Description](https://www.darpa.mil/attachments/DARPA-BAA-16-53.pdf) - [Slides](https://asd.gsfc.nasa.gov/conferences/ai/program/003-XAIforNASA.pdf)
+##### [5] DARPA Explainable Artificial Intelligence (XAI) 2017-2021 [Site](https://www.darpa.mil/program/explainable-artificial-intelligence) - [Project Description](https://www.darpa.mil/attachments/DARPA-BAA-16-53.pdf) - [Slides](https://asd.gsfc.nasa.gov/conferences/ai/program/003-XAIforNASA.pdf)
 
 
 ### 6. Key directions
@@ -65,6 +74,8 @@ Presenters: S.C. Zhu, K.R. Muller, K. Saenko, D. Parikh & D. Batra, B. Kim\
 
 ### 7. Available services
 ##### Google Explainable AI services [Link](https://towardsdatascience.com/googles-new-explainable-ai-xai-service-83a7bc823773)
+
+
 
 
 
