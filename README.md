@@ -2,7 +2,7 @@
 
 This document collects the key resources in Explainable AI, including tutorials, workshops, books, course & lectures, survey papers, projects, and major research directions. There is no way it is complete, it will be continuously updated with new and relevant resources. You are welcome to suggest any valueable resources. 
 
-### Other keywords: Interpretable Machine Learning
+### Clarification
 Explainable vs. Interpretable \
 In most cases, they are used interchangeable. In a number of situations, explainability means explaining for what have already happened. [3] defined: Interpretability refers to a passive characteristic of a model referring to the level at which a given model makes sense to a human observe vs. Explainability is viewed as an active characteristic of a model, denoting any action or procedure take by a model with the intent of clarifying or detailing its internal functions. 
 
