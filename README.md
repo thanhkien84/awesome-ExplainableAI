@@ -20,8 +20,8 @@ Explainable AI survey paper [3]:
 " Given an audience, an explainable Artificial Intelligence is one that produces details or reasons to make its functioning clear or easy to understand."
 
 ### WHY
-- Explainability is one of the main barriers AI is facing nowadays in regards to its practical implementation.\
-- Even though AI AI has helped research across the world with the task of inferring relations that were far beyond the human cognitive reach. However, science and society are far from being concerned just by performance.\
+- Explainability is one of the main barriers AI is facing nowadays in regards to its practical implementation.
+- Even though AI AI has helped research across the world with the task of inferring relations that were far beyond the human cognitive reach. However, science and society are far from being concerned just by performance.
 - The search for understanding is what opens the door for further model improvement and its practical utility.
  
 ### WHAT FOR?
@@ -43,13 +43,11 @@ Explainable AI survey paper [3]:
 Two categories:
 - Interpretable (also named transparent) Models: transparent models convey some degree of interpretability by themselves. Models belonging to this category can be also approached in terms of the domain in which they are interpretable, namely, algorithmic transparency, decomposability and simulatability. 
 
-Add figure here
-
-![Image description](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/PosthocExplainability.png | width=100)
+![Image description](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/Transparency.png |width=100)
 
 - Model interpretability techniques (also named post-hoc explainability): post-hoc explainability targets models that are not readily interpretable by design by resorting to diverse means to enhance their interpretability, such as text explanations, visual explanations, local explanations, explanations by example, explanations by simplification and feature relevance explanations techniques
 
-Add figure here
+![Image description](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/PosthocExplainability.png |width=100)
 
 ### Transparent ML Models
 
