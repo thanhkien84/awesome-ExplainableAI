@@ -40,6 +40,17 @@ Explainable AI survey paper [3]:
 
 ### HOW
 
+Two categories:
+- Interpretable (also named transparent) Models: transparent models convey some degree of interpretability by themselves. Models belonging to this category can be also approached in terms of the domain in which they are interpretable, namely, algorithmic transparency, decomposability and simulatability. 
+
+Add figure here
+
+- Model interpretability techniques (also named post-hoc explainability): post-hoc explainability targets models that are not readily interpretable by design by resorting to diverse means to enhance their interpretability, such as text explanations, visual explanations, local explanations, explanations by example, explanations by simplification and feature relevance explanations techniques
+
+Add figure here
+
+
+
 ----------------------------------------------------------------------------------------------------------------
 
 
