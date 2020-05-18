@@ -50,10 +50,24 @@ Two categories:
 ![Image description](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/PosthocExplainability.png)
 
 ### Transparent ML Models
+- Linear/Logistic Regression
+- Decision Trees
+- K-Nearest Neighbors
+- Rule-based Learning
+- General Additive Models
+- Bayesian Models
 
 ### Post-hoc explainability
-
-
+- Model-agnostic Techniques
+- Post-hoc Explainability in Shallow ML Models
+-- Tree Ensembles, Random Forests and Multiple Classifier Systems
+-- SVM
+- Explainability in Deep Learning
+-- Multi-layer Neural Networks
+-- Convolutional Neural Networks (CNNs)
+-- Recurrent Neural Networks (RNNs)
+-- Hybrid Transparent and Black-box Methods 
+-- Alternative Taxonomy of Post-hoc Explainability Techniques for Deep Learning
 
 ----------------------------------------------------------------------------------------------------------------
 
