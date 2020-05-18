@@ -15,7 +15,7 @@ DARPA XAI project by D. Gunning [5]:
 “XAI will create a suite of machine learning techniques that enables human users to understand, appropriately trust, and effectively manage the emerging generation of artificially intelligent partners”
 
 Explainable AI survey paper [3]:
-"Given a certain audience, explainability refers to the details and reasons a model gives to make its functioning clear or easy to understand."
+" Given an audience, an explainable Artificial Intelligence is one that produces details or reasons to make its functioning clear or easy to understand."
 
 
 ### 1. Tutorials and Workshops
