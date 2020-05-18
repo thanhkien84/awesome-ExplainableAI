@@ -45,6 +45,8 @@ Two categories:
 
 Add figure here
 
+![Image description](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/PosthocExplainability.png)
+
 - Model interpretability techniques (also named post-hoc explainability): post-hoc explainability targets models that are not readily interpretable by design by resorting to diverse means to enhance their interpretability, such as text explanations, visual explanations, local explanations, explanations by example, explanations by simplification and feature relevance explanations techniques
 
 Add figure here
