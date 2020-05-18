@@ -2,14 +2,14 @@
 
 This document collects the key resources in Explainable AI, including tutorials, workshops, books, course & lectures, survey papers, projects, and major research directions. There is no way it is complete, it will be continuously updated with new and relevant resources. You are welcome to suggest any valueable resources. 
 
-## A quick overview
+## A one-page overview
 
 ### Clarification
 Explainable vs. Interpretable \
 In most cases, they are used interchangeable. In a number of situations, explainability means explaining for what have already happened. [3] defined: Interpretability refers to a passive characteristic of a model referring to the level at which a given model makes sense to a human observe vs. Explainability is viewed as an active characteristic of a model, denoting any action or procedure take by a model with the intent of clarifying or detailing its internal functions. 
 
-AI vs. Machine Learning\
-In most cases, they are used interchangeable. However, if precisely defined, ML is a subfield of AI. There are other subfields in AI such as Computer Vision and Statistics.
+XAI vs. Responsible AI\
+
 
 
 ### WHAT: definition of Explainable AI
@@ -26,16 +26,16 @@ Explainable AI survey paper [3]:
  
 ### WHAT FOR?
 | XAI goals        | Main target audience |
-|------------------|----------------------|
-|Trustworthiness   | |
-|Causality         | |
-|Transferability   | |
-|Informativeness   | |
-|Confidence        | |
-|Fairness          | |
-|Accessibility     | |
-|Interactivity     | |
-|Privacy awareness | |
+|------------------|-----------------------------------------------------------------------------------|
+|Trustworthiness   | Domain experts, users of the model affected by decisions|
+|Causality         | Domain experts, managers and executive board members, regulatory entities/agencies|
+|Transferability   | Domain experts, data scientists|
+|Informativeness   | All|
+|Confidence        | Domain experts, developers, managers, regulatory, entities/agencies|
+|Fairness          | Users affected by model decisions, regulatory entities/agencies|
+|Accessibility     | Product owners, managers, users affected by model decisions|
+|Interactivity     | Domain experts, users affected by model decisions|
+|Privacy awareness | Users affected by model decisions, regulatory entities/agencies|
 
 
 ### HOW
