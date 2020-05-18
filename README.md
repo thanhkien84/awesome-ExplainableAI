@@ -62,11 +62,11 @@ Two categories:
 - Bayesian Models
 
 #### Post-hoc explainability
-Markup : - Model-agnostic Techniques: Model-agnostic techniques for post-hoc explainability are designed to be plugged to any model with the intent of extracting some information from its prediction procedure. 
-   - Explanation by simplification
-   - Feature relevance explanation
-   - LocalExplanations
-   - Visual explanation
+- Model-agnostic Techniques: Model-agnostic techniques for post-hoc explainability are designed to be plugged to any model with the intent of extracting some information from its prediction procedure. 
+    - Explanation by simplification
+    - Feature relevance explanation
+    - LocalExplanations
+    - Visual explanation
 
 - Model-specific in Shallow ML Models
  - Tree Ensembles, Random Forests and Multiple Classifier Systems
