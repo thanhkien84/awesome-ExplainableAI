@@ -49,8 +49,6 @@ Two categories:
 
 ![Post-hoc explainability approaches [3]](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/PosthocExplainability.png)
 
-[[https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/PosthocExplainability.png|width=100|alt=abc]]
-
 ### XAI Taxonomy
 
 ![Taxonomy of XAI [3]](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/XAItaxonomy.png)
@@ -64,11 +62,17 @@ Two categories:
 - Bayesian Models
 
 #### Post-hoc explainability
-- Model-agnostic Techniques
-- Post-hoc Explainability in Shallow ML Models
+- Model-agnostic Techniques: Model-agnostic techniques for post-hoc explainability are designed to be plugged to any model with the intent of extracting some information from its prediction procedure. 
+-- Explanation by simplification
+-- Feature relevance explanation
+-- LocalExplanations
+-- Visual explanation
+
+- Model-specific in Shallow ML Models
 -- Tree Ensembles, Random Forests and Multiple Classifier Systems
 -- SVM
-- Explainability in Deep Learning
+
+- Model-specific in Deep Learning
 -- Multi-layer Neural Networks
 -- Convolutional Neural Networks (CNNs)
 -- Recurrent Neural Networks (RNNs)
