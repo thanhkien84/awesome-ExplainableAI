@@ -43,13 +43,17 @@ Explainable AI survey paper [3]:
 Two categories:
 - Interpretable (also named transparent) Models: transparent models convey some degree of interpretability by themselves. Models belonging to this category can be also approached in terms of the domain in which they are interpretable, namely, algorithmic transparency, decomposability and simulatability. 
 
-![Image description](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/Transparency.png)
+![Transparent levels: (a) simulatability; (b) decomposability; (c) algorithmic transparency. [3]](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/Transparency.png)
 
 - Model interpretability techniques (also named post-hoc explainability): post-hoc explainability targets models that are not readily interpretable by design by resorting to diverse means to enhance their interpretability, such as text explanations, visual explanations, local explanations, explanations by example, explanations by simplification and feature relevance explanations techniques
 
-![Image description](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/PosthocExplainability.png)
+![Post-hoc explainability approaches [3]](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/PosthocExplainability.png)
 
-### Transparent ML Models
+### XAI Taxonomy
+
+![Taxonomy of XAI [3]](https://github.com/thanhkien84/awesome-ExplainableAI/blob/master/XAItaxonomy.png)
+
+#### Transparent ML Models
 - Linear/Logistic Regression
 - Decision Trees
 - K-Nearest Neighbors
@@ -57,7 +61,7 @@ Two categories:
 - General Additive Models
 - Bayesian Models
 
-### Post-hoc explainability
+#### Post-hoc explainability
 - Model-agnostic Techniques
 - Post-hoc Explainability in Shallow ML Models
 -- Tree Ensembles, Random Forests and Multiple Classifier Systems
