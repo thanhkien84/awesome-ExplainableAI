@@ -2,6 +2,8 @@
 
 This document collects the key resources in Explainable AI, including tutorials, workshops, books, course & lectures, survey papers, projects, and major research directions. There is no way it is complete, it will be continuously updated with new and relevant resources. You are welcome to suggest any valueable resources. 
 
+## A quick overview
+
 ### Clarification
 Explainable vs. Interpretable \
 In most cases, they are used interchangeable. In a number of situations, explainability means explaining for what have already happened. [3] defined: Interpretability refers to a passive characteristic of a model referring to the level at which a given model makes sense to a human observe vs. Explainability is viewed as an active characteristic of a model, denoting any action or procedure take by a model with the intent of clarifying or detailing its internal functions. 
@@ -10,12 +12,37 @@ AI vs. Machine Learning\
 In most cases, they are used interchangeable. However, if precisely defined, ML is a subfield of AI. There are other subfields in AI such as Computer Vision and Statistics.
 
 
-### Definition of Explainable AI
+### WHAT: definition of Explainable AI
 DARPA XAI project by D. Gunning [5]:
 “XAI will create a suite of machine learning techniques that enables human users to understand, appropriately trust, and effectively manage the emerging generation of artificially intelligent partners”
 
 Explainable AI survey paper [3]:
 " Given an audience, an explainable Artificial Intelligence is one that produces details or reasons to make its functioning clear or easy to understand."
+
+### WHY
+- Explainability is one of the main barriers AI is facing nowadays in regards to its practical implementation.\
+- Even though AI AI has helped research across the world with the task of inferring relations that were far beyond the human cognitive reach. However, science and society are far from being concerned just by performance.\
+- The search for understanding is what opens the door for further model improvement and its practical utility.
+ 
+### WHAT FOR?
+| XAI goals        | Main target audience |
+|------------------|----------------------|
+|Trustworthiness   | |
+|Causality         | |
+|Transferability   | |
+|Informativeness   | |
+|Confidence        | |
+|Fairness          | |
+|Accessibility     | |
+|Interactivity     | |
+|Privacy awareness | |
+
+
+### HOW
+
+----------------------------------------------------------------------------------------------------------------
+
+
 
 
 ### 1. Tutorials and Workshops
